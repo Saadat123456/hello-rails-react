@@ -27,7 +27,7 @@ To get a local copy follow these simple steps.
 `cd hello_rails_react`  
 3.- Install the project's dependencies by running these commands:   
 `bundle install`   
-`npm install`   
+`yarn`   
 4.- Change the database configuration file (`database.yml`) to fit your local database's settings   
 5.- Run these commands to create and populate the database   
 `rails db:create`   
